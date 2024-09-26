@@ -4,11 +4,11 @@
 #mysql:5.7
 #mysql:8.0
 
-elastic/elasticsearch:7.14.1
-elastic/kibana:7.14.1
-elastic/logstash:7.14.1
-elastic/filebeat:7.9.2
-elastic/filebeat:7.14.1
+#elastic/elasticsearch:7.14.1
+#elastic/kibana:7.14.1
+#elastic/logstash:7.14.1
+#elastic/filebeat:7.9.2
+#elastic/filebeat:7.14.1
 
 #redis:5.0.9
 #redis:7.0.5 
@@ -20,7 +20,7 @@ elastic/filebeat:7.14.1
 
 nacos/nacos-server:2.0.3
 nacos/nacos-server:1.4.1
-nacos/nacos-server:2.2.0
+#nacos/nacos-server:2.2.0
 nacos/nacos-server:latest
 
 rabbitmq:3.9.1-management
