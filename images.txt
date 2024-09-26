@@ -17,8 +17,8 @@
 #redis:7.0.5 
 #redis:6.0.8 
 
-sameersbn/postgresql:11-20200524
-sameersbn/gitlab:13.0.5
+#sameersbn/postgresql:11-20200524
+#sameersbn/gitlab:13.0.5
 
 
 #minio/minio:latest
@@ -49,17 +49,17 @@ sameersbn/gitlab:13.0.5
 
 
 
-openzipkin/zipkin:2.24
+#openzipkin/zipkin:2.24
 
-apache/rocketmq:5.1.3
-apacherocketmq/rocketmq-dashboard:1.0.0
+#apache/rocketmq:5.1.3
+#apacherocketmq/rocketmq-dashboard:1.0.0
 
-foxiswho/rocketmq:server
-foxiswho/rocketmq:broker
-styletang/rocketmq-console-ng
+#foxiswho/rocketmq:server
+#foxiswho/rocketmq:broker
+#styletang/rocketmq-console-ng
 
-apacherocketmq/rocketmq-console:2.0.0
-apacherocketmq/rocketmq:4.7.1-alpine 
+#apacherocketmq/rocketmq-console:2.0.0
+#apacherocketmq/rocketmq:4.7.1-alpine 
 
 wurstmeister/zookeeper
 wurstmeister/kafka:2.13-2.8.1
