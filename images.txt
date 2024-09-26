@@ -4,10 +4,9 @@
 #mysql:5.7
 #mysql:8.0
 
-#elasticsearch:7.14.1
-#kibana:7.14.1
-#logstash:7.14.1
-#filebeat:7.14.1
+elastic/elasticsearch:7.14.1
+elastic/kibana:7.14.1
+elastic/logstash:7.14.1
 elastic/filebeat:7.9.2
 elastic/filebeat:7.14.1
 
