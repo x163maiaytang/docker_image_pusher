@@ -5,3 +5,11 @@ elasticsearch:7.14.1
 kibana:7.14.1
 logstash:7.14.1
 filebeat:7.14.1
+
+redis:5.0.9
+minio/minio:latest
+mongo:4.4.6
+nacos-server:2.0.3
+nacos-server:1.4.1
+nacos-server:2.2.0
+nacos-server:latest
