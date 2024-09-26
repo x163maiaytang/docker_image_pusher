@@ -19,10 +19,10 @@ elastic/filebeat:7.14.1
 #minio/minio:latest
 #mongo:4.4.6
 
-nacos-server:2.0.3
-nacos-server:1.4.1
-nacos-server:2.2.0
-nacos-server:latest
+nacos/nacos-server:2.0.3
+nacos/nacos-server:1.4.1
+nacos/nacos-server:2.2.0
+nacos/nacos-server:latest
 
 rabbitmq:3.9.1-management
 rabbitmq:3.7.8-management
