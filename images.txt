@@ -3,12 +3,12 @@
 
 #nginx:1.18
 #nginx:1.21.1
-nginx:1.16.1
+#nginx:1.16.1
 
 #mysql:5.7
 #mysql:8.0
 
-tomcat:8.5
+#tomcat:8.5
 
 #elastic/elasticsearch:7.14.1
 #elastic/kibana:7.14.1
@@ -79,6 +79,9 @@ tomcat:8.5
 
 #xuxueli/xxl-job-admin:2.3.0
 
-metabase/metabase:v0.41.2
+#metabase/metabase:v0.41.2
 
-sonatype/nexus3
+#sonatype/nexus3
+
+anapsix/alpine-java:8_server-jre_unlimited
+pig4cloud/java:8-jre  
