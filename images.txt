@@ -44,7 +44,10 @@ sameersbn/gitlab:13.0.5
 #node:16
 
 #zookeeper:3.7.0
+
 #tobilg/zookeeper-webui
+
+
 
 openzipkin/zipkin:2.24
 
@@ -58,6 +61,17 @@ styletang/rocketmq-console-ng
 apacherocketmq/rocketmq-console:2.0.0
 apacherocketmq/rocketmq:4.7.1-alpine 
 
+wurstmeister/zookeeper
+wurstmeister/kafka:2.13-2.8.1
+sheepkiller/kafka-manager
+
+bitnami/zookeeper:latest
+bitnami/kafka:3.4.1
+dushixiang/kafka-map:latest
+
 
 canal/canal-server:v1.1.5
 canal/canal-admin:v1.1.5
+
+
+xuxueli/xxl-job-admin:2.3.0
