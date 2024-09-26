@@ -3,9 +3,12 @@
 
 #nginx:1.18
 #nginx:1.21.1
+nginx:1.16.1
 
 #mysql:5.7
 #mysql:8.0
+
+tomcat:8.5
 
 #elastic/elasticsearch:7.14.1
 #elastic/kibana:7.14.1
@@ -61,17 +64,21 @@
 #apacherocketmq/rocketmq-console:2.0.0
 #apacherocketmq/rocketmq:4.7.1-alpine 
 
-wurstmeister/zookeeper
-wurstmeister/kafka:2.13-2.8.1
-sheepkiller/kafka-manager
+#wurstmeister/zookeeper
+#wurstmeister/kafka:2.13-2.8.1
+#sheepkiller/kafka-manager
 
-bitnami/zookeeper:latest
-bitnami/kafka:3.4.1
-dushixiang/kafka-map:latest
-
-
-canal/canal-server:v1.1.5
-canal/canal-admin:v1.1.5
+#bitnami/zookeeper:latest
+#bitnami/kafka:3.4.1
+#dushixiang/kafka-map:latest
 
 
-xuxueli/xxl-job-admin:2.3.0
+#canal/canal-server:v1.1.5
+#canal/canal-admin:v1.1.5
+
+
+#xuxueli/xxl-job-admin:2.3.0
+
+metabase/metabase:v0.41.2
+
+sonatype/nexus3
