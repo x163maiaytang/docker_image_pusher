@@ -18,18 +18,17 @@
 #minio/minio:latest
 #mongo:4.4.6
 
-nacos/nacos-server:2.0.3
-nacos/nacos-server:1.4.1
-#nacos/nacos-server:2.2.0
-nacos/nacos-server:latest
+#nacos/nacos-server:2.0.3
+#nacos/nacos-server:1.4.1
+#nacos/nacos-server:latest
 
-rabbitmq:3.9.1-management
-rabbitmq:3.7.8-management
+#rabbitmq:3.9.1-management
+#rabbitmq:3.7.8-management
 
-skywalking-oap-server:8.9.0
-skywalking-ui:8.9.0
-skywalking-oap-server:9.3.0
-skywalking-ui:9.3.0
+apache/skywalking-oap-server:8.9.0
+apache/skywalking-ui:8.9.0
+apache/skywalking-oap-server:9.3.0
+apache/skywalking-ui:9.3.0
 
 tomcat:8
 tomcat:latest
