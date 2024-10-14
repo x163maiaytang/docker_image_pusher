@@ -83,5 +83,7 @@
 
 #sonatype/nexus3
 
-anapsix/alpine-java:8_server-jre_unlimited
-pig4cloud/java:8-jre  
+#anapsix/alpine-java:8_server-jre_unlimited
+#pig4cloud/java:8-jre  
+
+kubernetesui/dashboard:v2.1.0
