@@ -88,4 +88,4 @@
 
 #kubernetesui/dashboard:v2.1.0
 
-mintplexlabs/anythingllm
+--platform=linux/arm64 mintplexlabs/anythingllm
