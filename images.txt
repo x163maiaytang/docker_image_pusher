@@ -86,4 +86,6 @@
 #anapsix/alpine-java:8_server-jre_unlimited
 #pig4cloud/java:8-jre  
 
-kubernetesui/dashboard:v2.1.0
+#kubernetesui/dashboard:v2.1.0
+
+mintplexlabs/anythingllm
